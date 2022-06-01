@@ -1,4 +1,4 @@
-# [Multipage-site-Glee](http://webdesign.ru.net)
+# [Multipage-site-Glee](https://georgeyakunenko.github.io/Multipage-site-Glee/)
 Multipage site Glee created by George Yakunenko
 - using BEM naming
 - adaptive for any device
