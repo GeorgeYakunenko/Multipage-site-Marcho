@@ -4,5 +4,5 @@ Multipage site Glee
 - adaptive for any device
 - using gulp assembly and scss preprocessor
 - more than 8 pages
-- including pagination, pop-ups , breadcrumbs 
+- including pagination, pop-ups , breadcrumbsand products filter
   
