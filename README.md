@@ -1,4 +1,4 @@
-# [gleeFurnitureStore](https://georgiyiakunenko.github.io/Multipage-site-Glee/)
+# [gleeFurnitureStore](https://georgiyiakunenko.github.io/GleeWebStore/)
 Multipage site Glee
 - using BEM naming
 - adaptive for any device
